@@ -13,7 +13,7 @@ Anita Gurung (1), Benjamin Wagner (1), Elizabeth Pryde (2), Craig R. Nitschke (1
 
 Correspondence: benjamin.wagner[at]unimelb.edu.au, sarndt@unimelb.edu.au
 
-DOI: will be added once available
+DOI: https://doi.org/10.3390/f16060898
 
 # Abstract:
 
